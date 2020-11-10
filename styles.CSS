@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    background: rgb(123, 132, 255);
+    opacity: 25px;
+}
+header{
+    padding: 40px;
+    border-bottom: 1px solid #333;
+    background: rgb(0, 0, 0);
+    text-align: center;
+}
+header div a{
+    color: white;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0 16px;  
+}
+header div a:hover{
+    color: yellowgreen;
+    transition: color 700px;
+}
+header div wrapper{
+    text-align:center;            
+}
+#wrapper{
+    text-align: center;  
+    padding: 100px 40px 40px 50px;  
+}
+#wrapper h1{
+    color: chartreuse;
+    font-size: 80px;
+    text-align:center;    
+}
+#wrapper h2{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    text-align:center;  
+}
+#wrapper img{
+   margin-bottom: bold;
+   border-radius: 200px 200px 200px 20px;
+   border: 5px solid chartreuse;
+  
+}
+
